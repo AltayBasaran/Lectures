@@ -2,4 +2,4 @@ print ("hello")
 
 r = 5
 print (r)
-x = 2
+print("a")
